@@ -1,2 +1,6 @@
-# hackernews-api-test
-api tests for hacker news GET calls
+# install jest and axios libraries
+npm install --save-dev jest axios
+
+# run tests
+npm test
+
