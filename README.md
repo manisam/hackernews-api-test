@@ -1,4 +1,4 @@
-# install jest and axios libraries
+# install dependencies
 npm install
 
 # run tests
